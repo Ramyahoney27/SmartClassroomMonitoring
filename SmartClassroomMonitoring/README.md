@@ -10,7 +10,7 @@ This project proposes the design and implementation of a noise sensor with a buz
 - Reminder feature for upcoming events are scheduled and announcing with the help of  speakers
 
 ## Presentation
-![Block Diagram](./diagrams/block_diagram.png)
+![Block Diagram](./diagrams/block_diagram.jpg)
 
 ## Usage
 To use the Smart Classroom Monitoring System:
